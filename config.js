@@ -7,7 +7,7 @@ define( function ( require ) {
 		wp_ws_url : 'http://www.novini.nl/wp-appkit-api/novini',
 		wp_url : 'http://www.novini.nl',
 		theme : 'q-android',
-		version : '1',
+		version : '1.1',
 		app_type : 'phonegap-build',
 		app_title : 'Novini.nl',
 		app_platform : 'android',
